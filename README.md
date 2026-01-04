@@ -39,7 +39,7 @@ A production-ready fintech web application showcasing secure authentication, rea
 - 🐳 Dockerized backend, deployed on Render
 
 **Tech:** React · Vite · Tailwind CSS · Spring Boot · PostgreSQL · Docker  
-**Links:** [GitHub](https://github.com/vikasbharti/dWallet) | [Live Demo](https://dwallet.vercel.app)
+**Links:** [GitHub](https://github.com/vikasbharti/dWallet) | [Live Demo](https://digital-wallet-psi.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ A full-featured movie discovery app with personalized recommendations and detail
 - ⚡ Fast loading with Vite optimization
 
 **Tech:** React · Vite · Tailwind CSS · REST API Integration  
-**Links:** [GitHub](https://github.com/vikasbharti/FilmVault) | [Live Demo](https://filmvault-app.vercel.app)
+**Links:** [GitHub](https://github.com/vikasbharti/FilmVault) | [Live Demo](https://filmwault.netlify.app/)
 
 ---
 
@@ -73,7 +73,7 @@ A full-featured movie discovery app with personalized recommendations and detail
 Beautiful, responsive property showcasing website built with modern web standards.
 
 **Tech:** React · Tailwind CSS · Responsive Design  
-**Links:** [GitHub](https://github.com/vikasbharti/villa-web-design) | [Live Demo](https://villa-web-design.vercel.app)
+**Links:** [GitHub](https://github.com/vikasbharti/villa-web-design) | [Live Demo](https://villa-web-design.netlify.app/#)
 
 ---
 
@@ -102,10 +102,9 @@ Beautiful, responsive property showcasing website built with modern web standard
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikasbharti)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/vikasbharti)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github)](https://vikasbharti.dev)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail)](mailto:vikas@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikasbharti07/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github)](https://myvikportfolio.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail)](mailto:vikasbhartilm10@gmail.com)
 
 </div>
 
