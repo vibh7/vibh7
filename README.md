@@ -39,7 +39,7 @@ A production-ready fintech web application showcasing secure authentication, rea
 - 🐳 Dockerized backend, deployed on Render
 
 **Tech:** React · Vite · Tailwind CSS · Spring Boot · PostgreSQL · Docker  
-**Links:** [GitHub](https://github.com/vikasbharti/dWallet) | [Live Demo](https://digital-wallet-psi.vercel.app/)
+**Links:** [GitHub](https://github.com/vibh7/digital-wallet) | [Live Demo](https://digital-wallet-psi.vercel.app/)
 
 ---
 
@@ -52,7 +52,6 @@ Intelligent system that classifies Glassdoor reviews, extracts insights, and gen
 - 🚀 Production-ready deployment pipeline
 
 **Tech:** Python · NLP · LLMs · React · Data Visualization  
-**Links:** [GitHub](https://github.com/vikasbharti/employee-reviewer-analyzer)
 
 ---
 
@@ -65,7 +64,7 @@ A full-featured movie discovery app with personalized recommendations and detail
 - ⚡ Fast loading with Vite optimization
 
 **Tech:** React · Vite · Tailwind CSS · REST API Integration  
-**Links:** [GitHub](https://github.com/vikasbharti/FilmVault) | [Live Demo](https://filmwault.netlify.app/)
+**Links:** [GitHub](https://github.com/vibh7/filmvault) | [Live Demo](https://filmwault.netlify.app/)
 
 ---
 
@@ -81,9 +80,8 @@ Beautiful, responsive property showcasing website built with modern web standard
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasbharti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasbharti&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibh7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibh7&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
